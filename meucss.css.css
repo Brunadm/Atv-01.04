@@ -1,0 +1,37 @@
+body {
+    background-image: url(hacker.jpg);
+}
+h1{
+	text-align: center;
+	color: white;
+	background-color: gray;
+	border: 5px solid black;
+	font-size: 30px;
+	font: comic sans;
+}
+p{
+	color: white;
+	font: comic sans;
+	font-size: 19px;
+
+.id =  txtnome
+
+
+
+
+h2{
+	color: black;
+	background-color: green;
+	border: 5px solid black;
+	font-size: 35px;
+	font: comic sans;
+	background-color: gray;
+}
+
+
+h3{
+	font size: 35px;
+	background-color: orange;
+	border: 10px solid green
+	;
+}
